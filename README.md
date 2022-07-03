@@ -8,3 +8,7 @@
 4. [Web3](/doc/Web3.ipynb)
 5. [Solidity](/doc/Solidity.ipynb)
 6. [Smart Contract](/doc/Smart%20Contract.ipynb)
+7. [Deploy Solidity Contracts in Local Ganache using Python](/doc/Deploy%20Solidity%20Contracts%20in%20Local%20Ganache%20using%20Python.ipynb)
+8. [Token](/doc/Token.ipynb)
+9. [ERC-20](/doc/ERC20.ipynb)
+10. [ERC-721](/doc/ERC-721.ipynb)
