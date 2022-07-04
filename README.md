@@ -38,3 +38,4 @@
 18. [ERC20](/Contract/18.%20ERC20_sample.sol)
 19. [keccak256 Cryptographic Program](/Contract/19.%20keccak256_program.sol)
 20. [ERC 721](/Contract/20.%20ERC721%20Program.sol)
+21. [ERC 1155](/Contract/21.%20ERC-1155)
