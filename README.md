@@ -25,3 +25,4 @@
 5. [if-else Program](/Contract/5.if_else_program.sol)
 6. [Loop Program](/Contract/6.loop_program.sol)
 7. [Mapping Program](/Contract/7.%20mapping_program.sol)
+8. [Array Program](/Contract/8.%20array_program.sol)
