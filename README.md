@@ -31,3 +31,4 @@
 11. [Function Overloading](/Contract/11.%20function_overloading.sol)
 12. [View & Pure Program](/Contract/12.%20view_pure_functions.sol)
 13. [Modifier Program](/Contract/13.%20modifier_function.sol)
+14. [Inheritance](/Contract/14.%20inheritance_program.sol)
