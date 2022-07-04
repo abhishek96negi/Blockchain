@@ -35,3 +35,4 @@
 15. [Library](/Contract/15.%20library_program.sol)
 16. [Error Handling](/Contract/16.%20error_program.sol)
 17. [Events](/Contract/17.%20event_program.sol)
+18. [ERC20](/Contract/18.%20ERC20_sample.sol)
