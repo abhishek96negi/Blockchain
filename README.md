@@ -29,3 +29,4 @@
 9. [Enum Program](/Contract/9.%20enum_program.sol)
 10. [String Program](/Contract/10.%20string_program.sol)
 11. [Function Overloading](/Contract/11.%20function_overloading.sol)
+12. [View & Pure Program](/Contract/12.%20view_pure_functions.sol)
